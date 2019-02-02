@@ -1,0 +1,13 @@
+Html - linguagrm de marcação
+html semantico
+
+Lição de casa
+
+página das mulheres
+
+* testar com leitor de telas
+
+tag com atributos tipo src em img utiliza o atributo alt para descrição da imagem, 
+nesse caso é bom para deficiente visual
+
+doctype atende a parte semântica nos sites e sem ele o navegador vai entender. deve ser utilizada antes do html
