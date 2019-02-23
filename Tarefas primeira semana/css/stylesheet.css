@@ -9,11 +9,12 @@
     width: 100%;
     height: 100%;
     position: fixed;
+    z-index: -1;
     background-image: url(https://images7.alphacoders.com/695/695932.jpg);
     /*background-image: url(https://amp.businessinsider.com/images/56a7ab23c08a806f008bc7ea-750-562.jpg);*/    background-color: rgba(0, 0, 0, .9);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: .1;
+    opacity: .4;
     top: 0;
     left: 0;;
 }
